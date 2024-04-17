@@ -1,0 +1,10 @@
+//https://api.themoviedb.org/3/movie/popular?api_key=722e938974ed2869ee301410ce44f68c
+
+
+//https://api.themoviedb.org/3/movie/top_rated?api_key=722e938974ed2869ee301410ce44f68c
+
+//https://api.themoviedb.org/3/movie/upcoming?api_key=722e938974ed2869ee301410ce44f68c
+
+//https://api.themoviedb.org/3/movie/298618?api_key=722e938974ed2869ee301410ce44f68c
+
+https://api.themoviedb.org/3/search/movie?query=skal&api_key=722e938974ed2869ee301410ce44f68c
